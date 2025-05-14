@@ -1,0 +1,46 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Uploaded files
+uploads/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Build directories
+dist/
+build/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Coverage reports
+coverage/
+
+# Temp files
+tmp/
+temp/
+*.tmp
+
+# Test output
+jest-html-reporters-*
+
+# PM2 logs
+pids/
+*.pid
+*.seed
+
+# Optional yarn integrity
+.yarn-integrity
